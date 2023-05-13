@@ -1,0 +1,3 @@
+Containers are a type of lightweight virtualization technology that allow you to run applications and services in an isolated environment. However, it can be challenging to monitor the resource usage of containers, particularly when you have many running simultaneously.
+
+Container visualizer tool addresses this challenge by providing a way to visualize the memory usage, I/O usage, and CPU usage of containers. This can help you identify performance bottlenecks and optimize the resource allocation of your containerized applications.
